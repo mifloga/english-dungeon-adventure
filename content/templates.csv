@@ -1,1 +1,22 @@
+template_id,template_name,template_type,difficulty,description
+T001,Multiple Choice,multiple_choice,1,Choose the correct answer from four options
+T002,True False,true_false,1,Decide if a sentence is correct or incorrect
+T003,Fill The Gap,fill_gap,1,Complete a sentence with the missing word
+T004,Drag Missing Word,drag_drop,2,Drag the correct word into the sentence
+T005,Match Word To Picture,matching,1,Match vocabulary words with images
+T006,Match Sentence To Picture,matching,2,Match a sentence to the correct image
+T007,Sort Words Into Sentence,ordering,2,Arrange words into the correct order
+T008,Correct The Sentence,error_correction,3,Find and correct the mistake
+T009,Choose The Question,multiple_choice,2,Select the question that matches the answer
+T010,Compare Objects,comparison,2,Choose the correct comparative structure
+T011,Superlative Challenge,comparison,3,Choose the correct superlative structure
+T012,Some Or Any,multiple_choice,2,Choose between some and any
+T013,Possession Puzzle,grammar,2,Choose the correct possessive form
+T014,Preposition Challenge,grammar,2,Choose the correct preposition
+T015,Timeline Challenge,timeline,3,Choose the correct time-related answer
+T016,Image Description,image_choice,3,Select the sentence that best describes the image
+T017,Find The Object,interactive,1,Click the object requested
+T018,Find By Description,interactive,3,Click the object described by a sentence
+T019,Who Which Where,grammar,4,Choose the correct relative pronoun
+T020,Boss Puzzle,boss,5,Mixed challenge combining multiple concepts
 
