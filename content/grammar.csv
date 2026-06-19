@@ -1,1 +1,26 @@
-
+topic_id,topic_name,world,difficulty,rule,example
+PS01,Present Simple Affirmative,School Secrets,1,Use base verb for I-you-we-they and add s/es for he-she-it,She plays tennis every Saturday
+PS02,Present Simple Negative,School Secrets,1,Use do not or does not plus base verb,He does not like spiders
+PS03,Present Simple Questions,School Secrets,2,Use Do or Does at the beginning,Do you play chess
+PS04,Frequency Adverbs,School Secrets,2,Place adverb before main verb but after verb to be,She always arrives early
+HQ01,How Many,Animal Kingdom,1,Use with countable nouns,How many books have you got
+HQ02,How Much,Animal Kingdom,1,Use with uncountable nouns,How much water is there
+HQ03,How Often,Animal Kingdom,2,Ask about frequency,How often do you visit your grandparents
+HQ04,How Long,Animal Kingdom,2,Ask about duration or length,How long does the journey take
+TA01,There Is,Lost House,1,Use for singular or uncountable nouns,There is a cat in the garden
+TA02,There Are,Lost House,1,Use for plural nouns,There are three books on the table
+SA01,Some,Lost House,1,Use in affirmative sentences,There are some apples in the basket
+SA02,Any,Lost House,1,Use in negatives and questions,Have you got any brothers
+TW01,There Was,Time Machine,2,Use for singular past situations,There was a boy in the park
+TW02,There Were,Time Machine,2,Use for plural past situations,There were many people at the museum
+PC01,Present Continuous Now,Future City,2,Use am is are plus verb ing for actions now,I am reading a comic
+PC02,Present Continuous Future,Future City,3,Use present continuous for arrangements,We are visiting grandma tomorrow
+PP01,Prepositions of Time,Explorer Island,2,Use in on at depending on time expression,I was born in April
+PP02,Prepositions of Place,Explorer Island,2,Use in on at depending on location,The keys are on the table
+PO01,Possessive Adjectives,Health Lab,1,My your his her its our their,This is her backpack
+PO02,Possessive Pronouns,Health Lab,2,Mine yours his hers ours theirs,The blue bike is mine
+SG01,Saxon Genitive,Health Lab,3,Use apostrophe s for possession,Tom's skateboard is new
+RC01,Who,Grammar Fortress,3,Use for people,The girl who won the race is my friend
+RC02,Which,Grammar Fortress,3,Use for animals and things,The book which is on the desk is mine
+RC03,Where,Grammar Fortress,3,Use for places,This is the house where I grew up
+RC04,Whose,Grammar Fortress,4,Use to express possession,The boy whose dog is missing is sad
