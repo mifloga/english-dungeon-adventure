@@ -1,1 +1,32 @@
+mission_id,world,mission_name,topic_ids,difficulty,boss
+M001,School Secrets,The Missing Homework,PS01|PS02,1,false
+M002,School Secrets,The Secret Timetable,PS03|PS04,2,false
+M003,School Secrets,Principal's Office Escape,PS01|PS02|PS03|PS04,3,true
 
+M004,Animal Kingdom,The Monkey Maze,HQ01|HQ02,1,false
+M005,Animal Kingdom,Lion King's Questions,HQ03|HQ04,2,false
+M006,Animal Kingdom,The Animal Council,HQ01|HQ02|HQ03|HQ04,3,true
+
+M007,Lost House,The Empty Kitchen,TA01|SA01,1,false
+M008,Lost House,The Hidden Basement,TA02|SA02,2,false
+M009,Lost House,The Ghost of Room 13,TA01|TA02|SA01|SA02,3,true
+
+M010,Time Machine,The Broken Portal,TW01,2,false
+M011,Time Machine,Dinosaur Rescue,TW02,2,false
+M012,Time Machine,The History Guardian,TW01|TW02,3,true
+
+M013,Future City,Robot Delivery,PC01,2,false
+M014,Future City,Tomorrow's Mission,PC02,3,false
+M015,Future City,The AI Mayor,PC01|PC02,4,true
+
+M016,Explorer Island,The Lost Compass,PP01,2,false
+M017,Explorer Island,The Jungle Temple,PP02,2,false
+M018,Explorer Island,The Volcano Gate,PP01|PP02,3,true
+
+M019,Health Lab,The Backpack Mystery,PO01,1,false
+M020,Health Lab,The Ownership Machine,PO02,2,false
+M021,Health Lab,Doctor Possession,SG01|PO01|PO02,3,true
+
+M022,Grammar Fortress,The Talking Portraits,RC01|RC02,3,false
+M023,Grammar Fortress,The Secret Library,RC03|RC04,4,false
+M024,Grammar Fortress,The Grammar Dragon,RC01|RC02|RC03|RC04,5,true
